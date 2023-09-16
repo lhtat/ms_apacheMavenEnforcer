@@ -74,7 +74,6 @@
         <version>3.4.1</version>
         <executions>
           <execution>
-            <id>default-cli</id>
             <goals>
               <goal>enforce</goal>
             </goals>
