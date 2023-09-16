@@ -1,4 +1,4 @@
-# Apache Maven Enforcer
+# Apache Maven Enforcer plugin - description and explanation
 Repo for my article at medium.com
 
 ## ko-fi.com
