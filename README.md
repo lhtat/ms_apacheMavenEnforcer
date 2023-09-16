@@ -1,4 +1,4 @@
-# ms_apacheMavenEnforcer
+# Apache Maven Enforcer
 Repo for my article at medium.com
 
 ## ko-fi.com
