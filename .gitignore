@@ -24,5 +24,4 @@ hs_err_pid*
 replay_pid*
 
 # ignore target directory
-enforcer/target/
-
+**/target
