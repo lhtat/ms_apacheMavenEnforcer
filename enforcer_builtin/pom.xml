@@ -81,6 +81,7 @@
               <rules>
                 <requireMavenVersion>
                   <version>3.9.2</version>
+                  <message>Unfortunately, the correct maven version is not supported by your system</message>
                 </requireMavenVersion>
               </rules>
             </configuration>
