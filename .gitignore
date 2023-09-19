@@ -2,6 +2,10 @@
 /target/
 */target/**
 
+# ignore vs code dir
+/.vscode/
+*/.vscode/**
+
 # Compiled class file
 *.class
 
