@@ -80,9 +80,17 @@
             <configuration>
               <rules>
                 <requireMavenVersion>
-                  <version>3.9.2</version>
+                  <version>3.9.0</version>
                   <message>Unfortunately, the correct maven version is not supported by your system</message>
                 </requireMavenVersion>
+                <requireJavaVersion>
+                  <version>17.0.5</version>
+                </requireJavaVersion>
+                <requireJavaVendor>
+                  <includes>
+                    <include>Eclipse Adoptium</include>
+                  </includes>
+                </requireJavaVendor>
               </rules>
             </configuration>
           </execution>
